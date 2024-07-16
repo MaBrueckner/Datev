@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Datev")]
 [assembly: AssemblyDescription("SQL Verbindungsbibliothek zu verschiedenen Datenbanktypen")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Zwerrenz Automatisierungstechnik GmbH")]
+[assembly: AssemblyCompany("Maik Brückner")]
 [assembly: AssemblyProduct("Datev")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
-[assembly: AssemblyTrademark("Zwerrenz Automatisierungstools")]
+[assembly: AssemblyTrademark("MB")]
 [assembly: AssemblyCulture("")]
 
 // Durch Festlegen von ComVisible auf FALSE werden die Typen in dieser Assembly
