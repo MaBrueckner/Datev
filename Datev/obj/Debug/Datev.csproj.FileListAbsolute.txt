@@ -1,0 +1,34 @@
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\Datev.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\Datev.pdb
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\Advantage.Data.Provider.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\ErrorHandler.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\ErrorHandler.pdb
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Datev.csproj.CoreCompileInputs.cache
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Datev.csproj.CopyComplete
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Datev.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Datev.pdb
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Datev.csproj.AssemblyReference.cache
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Interop.ADOX.dll
+Z:\GFU\DEV\ZAT_TOOL\Quellen\DatevDLL\Datev\obj\Debug\Datev.csproj.ResolveComReference.cache
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\Datev.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\Datev.pdb
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\Advantage.Data.Provider.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\ErrorHandler.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\ErrorHandler.pdb
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Datev.csproj.AssemblyReference.cache
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Interop.ADOX.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Datev.csproj.ResolveComReference.cache
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Datev.csproj.CoreCompileInputs.cache
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Datev.csproj.CopyComplete
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Datev.dll
+C:\Users\syma\Documents\Projekte\Visual Studio\Zwerrenz\DatevDLL\Datev\obj\Debug\Datev.pdb

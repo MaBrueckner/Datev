@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Git\\Datev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA630BE-E4BF-4368-8371-4B9D0EB3DC35}|Datev\\Datev.csproj|b:\\git\\datev\\datev\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA630BE-E4BF-4368-8371-4B9D0EB3DC35}|Datev\\Datev.csproj|solutionrelative:datev\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "B:\\Git\\Datev\\Datev\\SQL.cs",
+              "RelativeDocumentMoniker": "Datev\\SQL.cs",
+              "ToolTip": "B:\\Git\\Datev\\Datev\\SQL.cs",
+              "RelativeToolTip": "Datev\\SQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:30:53.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
